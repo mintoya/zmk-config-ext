@@ -1,4 +1,3 @@
-#include <td-bindings/zmk/matrix_transform.h>
 
 / {
   chosen {
