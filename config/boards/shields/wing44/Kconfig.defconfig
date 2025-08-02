@@ -1,0 +1,4 @@
+if SHIELD_WING44
+config ZMK_KEYBOARD_NAME
+  default "Wing44"
+endif
