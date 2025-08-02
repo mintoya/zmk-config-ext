@@ -1,4 +1,7 @@
 /dts-v1/;
+
+#include <dt-bindings/zmk/matrix_transform.h>
+
 / {
   chosen {
     zmk,kscan = &default_kscan;
